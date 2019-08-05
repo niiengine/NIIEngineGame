@@ -34,6 +34,7 @@
 
 namespace NIIGame
 {
+    //------------------------------------------------------------------------
     NII_EVENT(GameObj, Machine, ,              );
     NII_EVENT(GameObj, Machine, ,              );
     NII_EVENT(GameObj, Machine, ,              );

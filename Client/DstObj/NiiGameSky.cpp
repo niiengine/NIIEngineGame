@@ -34,6 +34,7 @@
 
 namespace NIIGame
 {
+    //------------------------------------------------------------------------
     NII_EVENT(GameObj, Sky, ,              );
     NII_EVENT(GameObj, Sky, ,              );
     NII_EVENT(GameObj, Sky, ,              );

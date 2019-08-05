@@ -31,7 +31,7 @@
 */
 
 #ifndef _NII_GameSOLID_H_
-#define _NII_SOLID_H_
+#define _NII_GameSOLID_H_
 
 #include "NiiGameObj.h"
 
